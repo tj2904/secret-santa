@@ -1,0 +1,28 @@
+body {
+  background: url("../../public/background.png") no-repeat left top #082f3d;
+  background-size: cover;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.container {
+  margin-top: 50px;
+  margin-bottom: auto;
+  display: block;
+}
+.centered-div {
+  margin-left:auto;
+  margin-right: auto;
+  
+}
+
+#footer {
+   top: 100%;
+    position: absolute;
+  width: 95%;
+  color: #3b3b3b;
+  text-shadow: 0 0 8px #000;
+  font-family: "Rubik Dirt", "Franklin Gothic Medium", "Arial Narrow", Arial,
+    sans-serif !important;
+  text-align: center;
+}

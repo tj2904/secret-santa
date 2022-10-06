@@ -1,0 +1,20 @@
+.reveal {
+  font-family: "Rubik Dirt", "Franklin Gothic Medium", "Arial Narrow", Arial,
+    sans-serif !important;
+  font-size: 90px;
+  color: ivory;
+  text-align: center;
+  text-shadow: 0 0 8px #000;
+  display: block;
+  margin: auto;
+}
+
+h1.reveal {
+  color: whitesmoke;
+}
+h2.reveal {
+  color: whitesmoke;
+}
+h3.reveal {
+  color: whitesmoke;
+}

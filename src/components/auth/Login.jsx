@@ -62,7 +62,7 @@ setLoading(false);
               <Form.Group id="magicLink">
                 <Form.Control
                   type="email"
-                  placeholder="SecretSanta@TheNorthPole.com"
+                  placeholder="SecretSanta@NorthPole.com"
                   required
                   ref={emailRef}
                 />

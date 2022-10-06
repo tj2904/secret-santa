@@ -54,7 +54,7 @@ function NameReveal() {
         </Button>
       </div>
       <Reveal
-        className="reveal"
+        className="reveal display-2"
         animateOpacity={true}
         canPlay={playNow}
         // characterOffsetDelay={95}

@@ -17,8 +17,8 @@ body {
 }
 
 #footer {
-   top: 100%;
-    position: absolute;
+  position: absolute;
+  padding-top: 92vh;
   width: 95%;
   color: #3b3b3b;
   text-shadow: 0 0 8px #000;
